@@ -10,6 +10,7 @@ import windIcon from "./assets/images/wind.png"
 import snowIcon from "./assets/images/snow.png"
 import humidityIcon from "./assets/images/humidity.png"
 
+
 const WeatherDetails = ({icon, temp, city, country, lat, log, humidity, wind}) => {
   return (
     <>
